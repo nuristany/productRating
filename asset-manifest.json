@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/productRating/static/css/main.98bba168.css",
+    "main.js": "/productRating/static/js/main.5d03ce68.js",
+    "static/media/shoes.png": "/productRating/static/media/shoes.cfe0036f162b33adca6e.png",
+    "static/media/jeans.jpg": "/productRating/static/media/jeans.d8ff85e5f4adbae56a77.jpg",
+    "static/media/tshirts.jpg": "/productRating/static/media/tshirts.2d3948e12214e5052ec6.jpg",
+    "static/media/shirts.jpg": "/productRating/static/media/shirts.30550e371379958afe72.jpg",
+    "static/media/jackets.jpg": "/productRating/static/media/jackets.93863c55f5fe96ee1f96.jpg",
+    "static/media/logo.svg": "/productRating/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/productRating/index.html",
+    "main.98bba168.css.map": "/productRating/static/css/main.98bba168.css.map",
+    "main.5d03ce68.js.map": "/productRating/static/js/main.5d03ce68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98bba168.css",
+    "static/js/main.5d03ce68.js"
+  ]
+}
